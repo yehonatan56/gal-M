@@ -1,0 +1,11 @@
+$break1: "(min-width: 800px)";
+$break2: "(max-width: 799px)";
+*{
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    direction: rtl;
+    margin: 0;
+    padding: 0;  
+}
