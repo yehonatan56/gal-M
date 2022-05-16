@@ -9,8 +9,21 @@ body {
   padding: 0;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  background-color: #aaa;
+}
+
 header img {
   width: 200px;
   height: 200px;
+}
+
+header h1 {
+  color: white;
+  margin: 15px;
 }
 /*# sourceMappingURL=style.css.map */

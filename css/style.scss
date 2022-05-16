@@ -10,8 +10,18 @@ body{
     padding: 0;  
 }
 header{
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    padding: 10px;
+    background-color: #aaa;
     img{
         width: 200px;
         height: 200px;
+    }
+    h1{
+        color: white;
+        margin: 15px;
     }
 }
